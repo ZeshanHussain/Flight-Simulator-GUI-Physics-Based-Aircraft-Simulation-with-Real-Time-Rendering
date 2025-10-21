@@ -4,18 +4,8 @@ A realistic **6 Degrees of Freedom (6DOF) Flight Simulator** with cockpit instru
 
 ## Features
 
+[![Watch the demo on YouTube](https://img.youtube.com/vi/VmB1BS0aFl0/maxresdefault.jpg)](https://youtu.be/VmB1BS0aFl0)
 
-<p align="center">
-  <iframe 
-      width="560" 
-      height="315" 
-      src="https://www.youtube.com/embed/VmB1BS0aFl0?autoplay=1&mute=1" 
-      title="6DOF Flight Simulator Demo" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-  </iframe>
-</p>
 
 ### ✈️ Flight Dynamics
 - **6DOF Simulation**: Full rigid body dynamics with forces and moments
